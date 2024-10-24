@@ -1,3 +1,4 @@
+import this
 first = input("Введите первое число: ")
 second = input("Введите второе число: ")
 third = input("Введите третье число: ")
